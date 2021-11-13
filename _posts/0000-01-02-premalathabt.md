@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"do your best"-premalatha bt
 Use the left arrow to go back!
